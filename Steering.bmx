@@ -1,3 +1,9 @@
+' ------------------------------------------------
+' Name : Blitzmax-Steering-Behaviors
+' Date : (C)2025
+' Site:https://github.com/BlackCreepyCat
+' -----------------------------------------------
+
 SuperStrict
 
 ' ========== Vector2 ==========
